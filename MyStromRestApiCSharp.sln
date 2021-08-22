@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.960
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStromRestApiCSharp", "MyStromRestApiCSharp\MyStromRestApiCSharp.csproj", "{DB9ED5B9-7790-42D2-84EB-C9687F47E42C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStromRestApiNet5", "MyStromRestApiNet5\MyStromRestApiNet5.csproj", "{27185D40-BFEE-450A-821C-8F713D995842}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DB9ED5B9-7790-42D2-84EB-C9687F47E42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB9ED5B9-7790-42D2-84EB-C9687F47E42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB9ED5B9-7790-42D2-84EB-C9687F47E42C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27185D40-BFEE-450A-821C-8F713D995842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27185D40-BFEE-450A-821C-8F713D995842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27185D40-BFEE-450A-821C-8F713D995842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27185D40-BFEE-450A-821C-8F713D995842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
